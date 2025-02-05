@@ -1,30 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pedro\\source\\repos\\CRUD_productos2\\",
+  "WorkspaceRootPath": "C:\\Users\\pedro\\Documents\\CRUD_Productos\\CRUD_productos2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{073D354F-0648-422A-BF8A-414E832958CF}|CRUD_productos2\\CRUD_productos2.csproj|C:\\Users\\pedro\\source\\repos\\CRUD_productos2\\crud_productos2\\visual\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{073D354F-0648-422A-BF8A-414E832958CF}|CRUD_productos2\\CRUD_productos2.csproj|C:\\Users\\pedro\\Documents\\CRUD_Productos\\CRUD_productos2\\crud_productos2\\visual\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{073D354F-0648-422A-BF8A-414E832958CF}|CRUD_productos2\\CRUD_productos2.csproj|solutionrelative:crud_productos2\\visual\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{073D354F-0648-422A-BF8A-414E832958CF}|CRUD_productos2\\CRUD_productos2.csproj|c:\\users\\pedro\\source\\repos\\crud_productos2\\crud_productos2\\visual\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{073D354F-0648-422A-BF8A-414E832958CF}|CRUD_productos2\\CRUD_productos2.csproj|c:\\users\\pedro\\documents\\crud_productos\\crud_productos2\\crud_productos2\\visual\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{073D354F-0648-422A-BF8A-414E832958CF}|CRUD_productos2\\CRUD_productos2.csproj|solutionrelative:crud_productos2\\visual\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{073D354F-0648-422A-BF8A-414E832958CF}|CRUD_productos2\\CRUD_productos2.csproj|C:\\Users\\pedro\\source\\repos\\CRUD_productos2\\crud_productos2\\visual\\modificacionproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{073D354F-0648-422A-BF8A-414E832958CF}|CRUD_productos2\\CRUD_productos2.csproj|C:\\Users\\pedro\\Documents\\CRUD_Productos\\CRUD_productos2\\crud_productos2\\conexion\\modeloconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073D354F-0648-422A-BF8A-414E832958CF}|CRUD_productos2\\CRUD_productos2.csproj|solutionrelative:crud_productos2\\conexion\\modeloconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073D354F-0648-422A-BF8A-414E832958CF}|CRUD_productos2\\CRUD_productos2.csproj|C:\\Users\\pedro\\Documents\\CRUD_Productos\\CRUD_productos2\\crud_productos2\\dao\\categoriadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073D354F-0648-422A-BF8A-414E832958CF}|CRUD_productos2\\CRUD_productos2.csproj|solutionrelative:crud_productos2\\dao\\categoriadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073D354F-0648-422A-BF8A-414E832958CF}|CRUD_productos2\\CRUD_productos2.csproj|C:\\Users\\pedro\\Documents\\CRUD_Productos\\CRUD_productos2\\crud_productos2\\modelo\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073D354F-0648-422A-BF8A-414E832958CF}|CRUD_productos2\\CRUD_productos2.csproj|solutionrelative:crud_productos2\\modelo\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073D354F-0648-422A-BF8A-414E832958CF}|CRUD_productos2\\CRUD_productos2.csproj|C:\\Users\\pedro\\Documents\\CRUD_Productos\\CRUD_productos2\\crud_productos2\\conexion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073D354F-0648-422A-BF8A-414E832958CF}|CRUD_productos2\\CRUD_productos2.csproj|solutionrelative:crud_productos2\\conexion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073D354F-0648-422A-BF8A-414E832958CF}|CRUD_productos2\\CRUD_productos2.csproj|C:\\Users\\pedro\\Documents\\CRUD_Productos\\CRUD_productos2\\crud_productos2\\visual\\modificacionproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{073D354F-0648-422A-BF8A-414E832958CF}|CRUD_productos2\\CRUD_productos2.csproj|solutionrelative:crud_productos2\\visual\\modificacionproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{073D354F-0648-422A-BF8A-414E832958CF}|CRUD_productos2\\CRUD_productos2.csproj|C:\\Users\\pedro\\source\\repos\\CRUD_productos2\\crud_productos2\\visual\\modificacionproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{073D354F-0648-422A-BF8A-414E832958CF}|CRUD_productos2\\CRUD_productos2.csproj|C:\\Users\\pedro\\Documents\\CRUD_Productos\\CRUD_productos2\\crud_productos2\\visual\\modificacionproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{073D354F-0648-422A-BF8A-414E832958CF}|CRUD_productos2\\CRUD_productos2.csproj|solutionrelative:crud_productos2\\visual\\modificacionproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{073D354F-0648-422A-BF8A-414E832958CF}|CRUD_productos2\\CRUD_productos2.csproj|C:\\Users\\pedro\\source\\repos\\CRUD_productos2\\crud_productos2\\dao\\productodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{073D354F-0648-422A-BF8A-414E832958CF}|CRUD_productos2\\CRUD_productos2.csproj|C:\\Users\\pedro\\Documents\\CRUD_Productos\\CRUD_productos2\\crud_productos2\\dao\\productodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{073D354F-0648-422A-BF8A-414E832958CF}|CRUD_productos2\\CRUD_productos2.csproj|solutionrelative:crud_productos2\\dao\\productodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{073D354F-0648-422A-BF8A-414E832958CF}|CRUD_productos2\\CRUD_productos2.csproj|C:\\Users\\pedro\\source\\repos\\CRUD_productos2\\crud_productos2\\conexion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{073D354F-0648-422A-BF8A-414E832958CF}|CRUD_productos2\\CRUD_productos2.csproj|solutionrelative:crud_productos2\\conexion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 279,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 19,
           "Children": [
             {
               "$type": "Bookmark",
@@ -49,50 +61,116 @@
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Documents\\CRUD_Productos\\CRUD_productos2\\CRUD_productos2\\Modelo\\Categoria.cs",
+              "RelativeDocumentMoniker": "CRUD_productos2\\Modelo\\Categoria.cs",
+              "ToolTip": "C:\\Users\\pedro\\Documents\\CRUD_Productos\\CRUD_productos2\\CRUD_productos2\\Modelo\\Categoria.cs",
+              "RelativeToolTip": "CRUD_productos2\\Modelo\\Categoria.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T08:40:14.333Z"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ModificacionProducto.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\CRUD_productos2\\CRUD_productos2\\Visual\\ModificacionProducto.cs",
-              "RelativeDocumentMoniker": "CRUD_productos2\\Visual\\ModificacionProducto.cs",
-              "ToolTip": "C:\\Users\\pedro\\source\\repos\\CRUD_productos2\\CRUD_productos2\\Visual\\ModificacionProducto.cs",
-              "RelativeToolTip": "CRUD_productos2\\Visual\\ModificacionProducto.cs",
-              "ViewState": "AgIAAH0AAAAAAAAAAADgv5AAAAAMAAAAAAAAAA==",
+              "Title": "CategoriaDAO.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Documents\\CRUD_Productos\\CRUD_productos2\\CRUD_productos2\\DAO\\CategoriaDAO.cs",
+              "RelativeDocumentMoniker": "CRUD_productos2\\DAO\\CategoriaDAO.cs",
+              "ToolTip": "C:\\Users\\pedro\\Documents\\CRUD_Productos\\CRUD_productos2\\CRUD_productos2\\DAO\\CategoriaDAO.cs",
+              "RelativeToolTip": "CRUD_productos2\\DAO\\CategoriaDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T09:27:39.412Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T08:39:21.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModeloConexion.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Documents\\CRUD_Productos\\CRUD_productos2\\CRUD_productos2\\Conexion\\ModeloConexion.cs",
+              "RelativeDocumentMoniker": "CRUD_productos2\\Conexion\\ModeloConexion.cs",
+              "ToolTip": "C:\\Users\\pedro\\Documents\\CRUD_Productos\\CRUD_productos2\\CRUD_productos2\\Conexion\\ModeloConexion.cs",
+              "RelativeToolTip": "CRUD_productos2\\Conexion\\ModeloConexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T08:37:37.944Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\CRUD_productos2\\CRUD_productos2\\Visual\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Documents\\CRUD_Productos\\CRUD_productos2\\CRUD_productos2\\Visual\\Form1.cs",
               "RelativeDocumentMoniker": "CRUD_productos2\\Visual\\Form1.cs",
-              "ToolTip": "C:\\Users\\pedro\\source\\repos\\CRUD_productos2\\CRUD_productos2\\Visual\\Form1.cs",
+              "ToolTip": "C:\\Users\\pedro\\Documents\\CRUD_Productos\\CRUD_productos2\\CRUD_productos2\\Visual\\Form1.cs",
               "RelativeToolTip": "CRUD_productos2\\Visual\\Form1.cs",
-              "ViewState": "AgIAAMQAAAAAAAAAAAAvwNQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAjwJkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T09:02:28.687Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "ModificacionProducto.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\CRUD_productos2\\CRUD_productos2\\Visual\\ModificacionProducto.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Documents\\CRUD_Productos\\CRUD_productos2\\CRUD_productos2\\Visual\\ModificacionProducto.cs",
               "RelativeDocumentMoniker": "CRUD_productos2\\Visual\\ModificacionProducto.cs",
-              "ToolTip": "C:\\Users\\pedro\\source\\repos\\CRUD_productos2\\CRUD_productos2\\Visual\\ModificacionProducto.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\pedro\\Documents\\CRUD_Productos\\CRUD_productos2\\CRUD_productos2\\Visual\\ModificacionProducto.cs [Dise\u00F1o]",
               "RelativeToolTip": "CRUD_productos2\\Visual\\ModificacionProducto.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T09:18:27.341Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-01-27T09:18:27.341Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\CRUD_productos2\\CRUD_productos2\\Visual\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Documents\\CRUD_Productos\\CRUD_productos2\\CRUD_productos2\\Visual\\Form1.cs",
               "RelativeDocumentMoniker": "CRUD_productos2\\Visual\\Form1.cs",
-              "ToolTip": "C:\\Users\\pedro\\source\\repos\\CRUD_productos2\\CRUD_productos2\\Visual\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\pedro\\Documents\\CRUD_Productos\\CRUD_productos2\\CRUD_productos2\\Visual\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "CRUD_productos2\\Visual\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T09:01:16.779Z",
@@ -100,27 +178,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductoDAO.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\CRUD_productos2\\CRUD_productos2\\DAO\\ProductoDAO.cs",
-              "RelativeDocumentMoniker": "CRUD_productos2\\DAO\\ProductoDAO.cs",
-              "ToolTip": "C:\\Users\\pedro\\source\\repos\\CRUD_productos2\\CRUD_productos2\\DAO\\ProductoDAO.cs",
-              "RelativeToolTip": "CRUD_productos2\\DAO\\ProductoDAO.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAswDQAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Documents\\CRUD_Productos\\CRUD_productos2\\CRUD_productos2\\Conexion\\Conexion.cs",
+              "RelativeDocumentMoniker": "CRUD_productos2\\Conexion\\Conexion.cs",
+              "ToolTip": "C:\\Users\\pedro\\Documents\\CRUD_Productos\\CRUD_productos2\\CRUD_productos2\\Conexion\\Conexion.cs",
+              "RelativeToolTip": "CRUD_productos2\\Conexion\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T09:34:42.101Z"
+              "WhenOpened": "2025-01-27T09:29:56.447Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\CRUD_productos2\\CRUD_productos2\\Conexion\\Conexion.cs",
-              "RelativeDocumentMoniker": "CRUD_productos2\\Conexion\\Conexion.cs",
-              "ToolTip": "C:\\Users\\pedro\\source\\repos\\CRUD_productos2\\CRUD_productos2\\Conexion\\Conexion.cs",
-              "RelativeToolTip": "CRUD_productos2\\Conexion\\Conexion.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAzwAAAAAAGAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "ModificacionProducto.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Documents\\CRUD_Productos\\CRUD_productos2\\CRUD_productos2\\Visual\\ModificacionProducto.cs",
+              "RelativeDocumentMoniker": "CRUD_productos2\\Visual\\ModificacionProducto.cs",
+              "ToolTip": "C:\\Users\\pedro\\Documents\\CRUD_Productos\\CRUD_productos2\\CRUD_productos2\\Visual\\ModificacionProducto.cs",
+              "RelativeToolTip": "CRUD_productos2\\Visual\\ModificacionProducto.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAI8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T09:29:56.447Z"
+              "WhenOpened": "2025-01-27T09:27:39.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Documents\\CRUD_Productos\\CRUD_productos2\\CRUD_productos2\\DAO\\ProductoDAO.cs",
+              "RelativeDocumentMoniker": "CRUD_productos2\\DAO\\ProductoDAO.cs",
+              "ToolTip": "C:\\Users\\pedro\\Documents\\CRUD_Productos\\CRUD_productos2\\CRUD_productos2\\DAO\\ProductoDAO.cs",
+              "RelativeToolTip": "CRUD_productos2\\DAO\\ProductoDAO.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAEwHcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T09:34:42.101Z"
             }
           ]
         },

@@ -100,7 +100,10 @@
   <ItemGroup>
     <Compile Include="Comprobacion\Logica.cs" />
     <Compile Include="Conexion\Conexion.cs" />
+    <Compile Include="Conexion\ModeloConexion.cs" />
+    <Compile Include="DAO\CategoriaDAO.cs" />
     <Compile Include="DAO\ProductoDAO.cs" />
+    <Compile Include="Modelo\Categoria.cs" />
     <Compile Include="Modelo\Productos.cs" />
     <Compile Include="Visual\Form1.cs">
       <SubType>Form</SubType>
