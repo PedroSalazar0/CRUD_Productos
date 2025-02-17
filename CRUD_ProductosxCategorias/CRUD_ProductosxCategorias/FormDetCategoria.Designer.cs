@@ -168,9 +168,9 @@
             this.label2.Font = new System.Drawing.Font("MingLiU_HKSCS-ExtB", 16.2F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(375, 27);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(418, 28);
+            this.label2.Size = new System.Drawing.Size(348, 28);
             this.label2.TabIndex = 6;
-            this.label2.Text = "Modificación de una categoría";
+            this.label2.Text = "Gestión de una categoría";
             // 
             // txtActivo
             // 
@@ -223,7 +223,7 @@
             this.btnMod.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.btnMod.Size = new System.Drawing.Size(152, 56);
             this.btnMod.TabIndex = 34;
-            this.btnMod.Text = "Modificación";
+            this.btnMod.Text = "Actualizar";
             this.btnMod.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.btnMod.UseVisualStyleBackColor = false;
             this.btnMod.Click += new System.EventHandler(this.btnMod_Click);
@@ -265,7 +265,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.pnlMenu);
             this.Name = "FormDetCategoria";
-            this.Text = "FormDetCategoria";
+            this.Text = "Detalles de categoría:";
             this.Load += new System.EventHandler(this.FormDetCategoria_Load);
             this.pnlMenu.ResumeLayout(false);
             this.panel5.ResumeLayout(false);

@@ -39,6 +39,8 @@
             this.panelformularios = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.btnInforme = new System.Windows.Forms.Button();
+            this.btnVerInforme = new System.Windows.Forms.Button();
             this.pnlTitulo.SuspendLayout();
             this.pnlMenu.SuspendLayout();
             this.panelformularios.SuspendLayout();
@@ -68,6 +70,8 @@
             // pnlMenu
             // 
             this.pnlMenu.BackColor = System.Drawing.Color.Thistle;
+            this.pnlMenu.Controls.Add(this.btnVerInforme);
+            this.pnlMenu.Controls.Add(this.btnInforme);
             this.pnlMenu.Controls.Add(this.panel1);
             this.pnlMenu.Controls.Add(this.btnSalir);
             this.pnlMenu.Controls.Add(this.btnCategorias);
@@ -95,7 +99,7 @@
             this.btnSalir.ForeColor = System.Drawing.Color.Gainsboro;
             this.btnSalir.Image = ((System.Drawing.Image)(resources.GetObject("btnSalir.Image")));
             this.btnSalir.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnSalir.Location = new System.Drawing.Point(-2, 236);
+            this.btnSalir.Location = new System.Drawing.Point(-2, 439);
             this.btnSalir.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnSalir.Name = "btnSalir";
             this.btnSalir.Size = new System.Drawing.Size(272, 65);
@@ -137,7 +141,7 @@
             this.btnProductos.ForeColor = System.Drawing.Color.Gainsboro;
             this.btnProductos.Image = ((System.Drawing.Image)(resources.GetObject("btnProductos.Image")));
             this.btnProductos.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnProductos.Location = new System.Drawing.Point(2, 161);
+            this.btnProductos.Location = new System.Drawing.Point(2, 158);
             this.btnProductos.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnProductos.Name = "btnProductos";
             this.btnProductos.Size = new System.Drawing.Size(269, 60);
@@ -176,6 +180,48 @@
             this.pictureBox1.TabIndex = 4;
             this.pictureBox1.TabStop = false;
             // 
+            // btnInforme
+            // 
+            this.btnInforme.BackColor = System.Drawing.Color.Purple;
+            this.btnInforme.FlatAppearance.BorderSize = 0;
+            this.btnInforme.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(33)))), ((int)(((byte)(50)))), ((int)(((byte)(70)))));
+            this.btnInforme.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(12)))), ((int)(((byte)(61)))), ((int)(((byte)(92)))));
+            this.btnInforme.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnInforme.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnInforme.ForeColor = System.Drawing.Color.Gainsboro;
+            this.btnInforme.Image = global::CRUD_ProductosxCategorias.Properties.Resources.informe;
+            this.btnInforme.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnInforme.Location = new System.Drawing.Point(-1, 231);
+            this.btnInforme.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.btnInforme.Name = "btnInforme";
+            this.btnInforme.Size = new System.Drawing.Size(272, 65);
+            this.btnInforme.TabIndex = 4;
+            this.btnInforme.Text = "Generar informe de productos:";
+            this.btnInforme.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.btnInforme.UseVisualStyleBackColor = false;
+            this.btnInforme.Click += new System.EventHandler(this.btnInforme_Click);
+            // 
+            // btnVerInforme
+            // 
+            this.btnVerInforme.BackColor = System.Drawing.Color.Purple;
+            this.btnVerInforme.FlatAppearance.BorderSize = 0;
+            this.btnVerInforme.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(33)))), ((int)(((byte)(50)))), ((int)(((byte)(70)))));
+            this.btnVerInforme.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(12)))), ((int)(((byte)(61)))), ((int)(((byte)(92)))));
+            this.btnVerInforme.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnVerInforme.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnVerInforme.ForeColor = System.Drawing.Color.Gainsboro;
+            this.btnVerInforme.Image = global::CRUD_ProductosxCategorias.Properties.Resources.informe;
+            this.btnVerInforme.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnVerInforme.Location = new System.Drawing.Point(-2, 310);
+            this.btnVerInforme.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.btnVerInforme.Name = "btnVerInforme";
+            this.btnVerInforme.Size = new System.Drawing.Size(272, 65);
+            this.btnVerInforme.TabIndex = 6;
+            this.btnVerInforme.Text = "Ver informe";
+            this.btnVerInforme.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.btnVerInforme.UseVisualStyleBackColor = false;
+            this.btnVerInforme.Click += new System.EventHandler(this.btnVerInforme_Click);
+            // 
             // panelPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -208,6 +254,8 @@
         private System.Windows.Forms.Panel panelformularios;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Button btnInforme;
+        private System.Windows.Forms.Button btnVerInforme;
     }
 }
 

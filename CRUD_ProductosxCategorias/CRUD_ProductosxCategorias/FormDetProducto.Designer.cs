@@ -209,9 +209,9 @@
             this.label2.Font = new System.Drawing.Font("MingLiU_HKSCS-ExtB", 16.2F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(375, 27);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(390, 28);
+            this.label2.Size = new System.Drawing.Size(320, 28);
             this.label2.TabIndex = 7;
-            this.label2.Text = "Modificación de un producto";
+            this.label2.Text = "Gestión de un producto";
             // 
             // txtNombre
             // 
@@ -304,7 +304,7 @@
             this.btnMod.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.btnMod.Size = new System.Drawing.Size(158, 56);
             this.btnMod.TabIndex = 40;
-            this.btnMod.Text = "Modificación";
+            this.btnMod.Text = "Actualizar";
             this.btnMod.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.btnMod.UseVisualStyleBackColor = false;
             this.btnMod.Click += new System.EventHandler(this.btnMod_Click);
@@ -325,7 +325,7 @@
             this.Controls.Add(this.pnlMenu);
             this.Controls.Add(this.txtId);
             this.Name = "FormDetProducto";
-            this.Text = "FormDetProducto";
+            this.Text = "Detalles de producto:";
             this.Load += new System.EventHandler(this.FormDetProducto_Load);
             this.pnlMenu.ResumeLayout(false);
             this.panel7.ResumeLayout(false);
